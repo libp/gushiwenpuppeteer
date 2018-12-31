@@ -1,0 +1,1 @@
+select * from nichuiniu.tbl_nichuiniu_article where 1=1 limit 1,10;
